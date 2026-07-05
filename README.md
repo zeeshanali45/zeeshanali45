@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zeeshanali45
 - 👀 I’m interested in Artificial intelligence
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Ai
+- 🌱 I’m currently learning Agentic ai
+- 💞️ I’m looking for AI enginner internship
 - 📫 How to reach me via Linkedin
 - 😄 Pronouns: him
 - ⚡ Fun fact: play with data
